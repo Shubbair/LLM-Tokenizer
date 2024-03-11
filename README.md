@@ -1,1 +1,4 @@
-# GPT4-Tokenizer
+# GPT4 Tokenizer
+the translator for LLm consist of encode & decode functions
+
+
