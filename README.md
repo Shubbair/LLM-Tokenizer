@@ -1,4 +1,4 @@
-# GPT4 Tokenizer
+# LLM Tokenizer
 the translator for LLM, consist of encode & decode functions.
 
 <img src="tokenizer.png" width="60%"/>
